@@ -825,7 +825,8 @@ textarea.form-control {
 
 .form-control,
 form .btn {
-  min-height: 48px;
+  min-height: 28px;
+  height: 28px;;
 }
 
 .gdpr-block label span.textGDPR input[name=gdpr] {
